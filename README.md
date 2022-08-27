@@ -37,7 +37,7 @@ THEN the saved events persist
 
 ### Link
 
-The URL of the functional, deployed application.](https://noori36.github.io/WorkDayScheduler/)
+[The URL of the functional, deployed application.](https://noori36.github.io/WorkDayScheduler/)
 
 [The URL of the GitHub repository.](https://github.com/noori36/WorkDayScheduler)
 
